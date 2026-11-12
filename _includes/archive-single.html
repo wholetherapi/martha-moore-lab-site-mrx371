@@ -1,0 +1,7 @@
+<div class="publication-entry">
+  <h3>{{ include.publication.title }}</h3>
+  <p>{{ include.publication.citation }}</p>
+  {% if include.publication.codeurl %}
+  <a class="btn" href="{{ include.publication.codeurl }}">Code</a>
+  {% endif %}
+</div>

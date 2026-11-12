@@ -1,2 +1,3 @@
-# martha-moore-lab-site-mrx371
-Martha Moore - academic website (static site)
+# Martha Moore - Academic Site
+
+Static source for the lab homepage.

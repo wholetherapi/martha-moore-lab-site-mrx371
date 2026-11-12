@@ -1,0 +1,7 @@
+title: Martha Moore - Research Lab
+description: Publications and open-source releases
+baseurl: ""
+url: ""
+markdown: kramdown
+theme: minimal-mistakes-jekyll
+include: ["_pages"]
